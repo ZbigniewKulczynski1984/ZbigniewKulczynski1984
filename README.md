@@ -18,23 +18,11 @@ I'm looking for a new job opportunity as a Junior Front-end Developer. I am base
 
 
 ## Social
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zbigniew-kulczy%c5%84ski-00060162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zbigniew-kulczy%c5%84ski-00060162/" height="30" width="40" /></a>
 <a href="https://fb.com/(https://www.facebook.com/zbigniew.kulczynski.5)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zbigniew.kulczynski.5" height="30" width="40" /></a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZbigniewKulczynski1984)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZbigniewKulczynski1984)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZbigniewKulczynski1984&show_icons=true&count_private=true)  
- 
-![GitHub metrics](https://metrics.lecoq.io/ZbigniewKulczynski1984)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ZbigniewKulczynski1984)  
-
-![Profile views](https://gpvc.arturio.dev/ZbigniewKulczynski1984)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zbigniewkulczynski1984&label=Profile%20views&color=0e75b6&style=flat" alt="zbigniewkulczynski1984" /> </p>
 
