@@ -24,14 +24,6 @@ I'm looking for a new job opportunity as a Junior Front-end Developer. I am base
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zbigniew-kulczy%C5%84ski-00060162//)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/zbigniew.kulczynsk)  
 
-### Hi there 👋, a
-#### a
-![a](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-a
-
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZbigniewKulczynski1984)  
 
