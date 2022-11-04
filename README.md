@@ -24,12 +24,6 @@ I'm looking for a new job opportunity as a Junior Front-end Developer. I am base
 <a href="https://fb.com/(https://www.facebook.com/zbigniew.kulczynski.5)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zbigniew.kulczynski.5" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbigniewkulczynski1984&label=Profile%20views&color=0e75b6&style=flat" alt="zbigniewkulczynski1984" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbigniewkulczynski1984" alt="zbigniewkulczynski1984" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <p align="left">
 </p>
 
@@ -37,11 +31,6 @@ I'm looking for a new job opportunity as a Junior Front-end Developer. I am base
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbigniewkulczynski1984&" alt="zbigniewkulczynski1984" /></p>
  
-
-
-
-
-
 #OpenToWork
 #NewOpportunity
 #FrontEndDeveloper
