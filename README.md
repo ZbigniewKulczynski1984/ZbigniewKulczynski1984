@@ -52,9 +52,6 @@ I'm looking for a new job opportunity as a Junior Front-end Developer. I am base
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zbigniewkulczynski1984&show_icons=true&locale=en&layout=compact" alt="zbigniewkulczynski1984" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbigniewkulczynski1984&" alt="zbigniewkulczynski1984" /></p>
