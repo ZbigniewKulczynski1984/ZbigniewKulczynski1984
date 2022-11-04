@@ -2,7 +2,7 @@
 
 ## Junior Front-End Developer
 
-###About
+### About
 After three months of self-education, I have decided to improve my knowledge and skills and take part in a professional course provided by Software Development Academy. 
 Day by day I am learning new tools and improving my development skills. I am strongly motivated to develop my future carrier in Front-end area.
 
