@@ -36,6 +36,23 @@ I'm looking for a new job opportunity as a Junior Front-end Developer. I am base
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ZbigniewKulczynski1984)  
 
 ![Profile views](https://gpvc.arturio.dev/ZbigniewKulczynski1984)  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbigniewkulczynski1984&label=Profile%20views&color=0e75b6&style=flat" alt="zbigniewkulczynski1984" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zbigniewkulczynski1984" alt="zbigniewkulczynski1984" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zbigniewkulczynski1984&show_icons=true&locale=en&layout=compact" alt="zbigniewkulczynski1984" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbigniewkulczynski1984&" alt="zbigniewkulczynski1984" /></p>
  
 
 
