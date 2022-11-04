@@ -22,7 +22,7 @@ I'm looking for a new job opportunity as a Junior Front-end Developer. I am base
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zbigniew-kulczy%c5%84ski-00060162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zbigniew-kulczy%c5%84ski-00060162/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/zbigniew.kulczynski.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zbigniew.kulczynski.5" height="30" width="40" /></a>
+<a href="https://fb.com/(https://www.facebook.com/zbigniew.kulczynski.5)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zbigniew.kulczynski.5" height="30" width="40" /></a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZbigniewKulczynski1984)](https://github.com/ryo-ma/github-profile-trophy)
