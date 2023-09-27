@@ -4,7 +4,7 @@
 
 Building apps and having fun
 
-I'm open for a new job opportunity as a Junior Front-end Developer. I am based in Gdansk but I am open to working in remote as well as a hybrid model.
+I'm open for a new job opportunity as a JavaScript Developer. I am based in Gdansk but I am open to working in remote as well as a hybrid model.
 
 ## Skills
 <p align="left">
@@ -24,6 +24,7 @@ I'm open for a new job opportunity as a Junior Front-end Developer. I am based i
 #OpenToWork
 #NewOpportunity
 #FrontEndDeveloper
+#JavaScriptDeveloper
 
 <!--
 **ZbigniewKulczynski1984/ZbigniewKulczynski1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
